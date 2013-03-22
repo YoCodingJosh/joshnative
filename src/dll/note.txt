@@ -1,5 +1,0 @@
-Compiles with Microsoft Visual C++ 10.
-
-Will compile in other compilers (Cygwin, MinGW, DMC, etc.) with little changes to code.
-
-Requires the jdk to be installed, and the include directory of the jdk to be added to the compiler. :3
